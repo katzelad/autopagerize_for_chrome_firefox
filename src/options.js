@@ -38,7 +38,7 @@ function updateCacheInfoInfo() {
 }
 
 function updateCacheInfo() {
-    var port = chrome..connect( { name: 'update_siteinfo' })
+    var port = chrome.runtime.connect( { name: 'update_siteinfo' })
     port.onMessage.addListener(function(res) {
         if (res.res == 'ok') {
             updateCacheInfoInfo()
