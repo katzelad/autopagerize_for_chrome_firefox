@@ -14,3 +14,6 @@ Install Chrome Extension here.<br />
 
 Chrome Web Store
 https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp
+
+Firefox Add-Ons Store
+https://addons.mozilla.org/zh-CN/firefox/addon/autopagerize-for-quantum/
