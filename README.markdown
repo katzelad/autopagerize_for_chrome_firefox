@@ -9,11 +9,11 @@ AutoPagerize: <http://github.com/swdyh/autopagerize/tree/master>
 
 ## Install
 
-Install Chrome Extension here.<br />
+Homepage here.<br />
 <http://autopagerize.net/>
 
-Chrome Web Store
+Chrome Web Store<br />
 https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp
 
-Firefox Add-Ons Store
-https://addons.mozilla.org/zh-CN/firefox/addon/autopagerize-for-quantum/
+Firefox Add-ons Site<br />
+https://addons.mozilla.org/firefox/addon/autopagerize-for-quantum/
