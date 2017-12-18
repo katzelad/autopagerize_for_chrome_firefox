@@ -27,11 +27,11 @@ function updateCacheInfoInfo() {
     var port = chrome.runtime.connect( { name: 'siteinfo_meta' })
     port.onMessage.addListener(function(res) {
         if (res.len) {
-            document.getElementById('siteinfo_size').innerHTML = res.len
+            document.getElementById('siteinfo_size').textContent = res.len
         }
         if (res.updated_at) {
             var d = new Date(res.updated_at)
-            document.getElementById('siteinfo_updated_at').innerHTML = d
+            document.getElementById('siteinfo_updated_at').textContent = d
         }
     })
     port.postMessage({ name: 'siteinfo_meta' })
