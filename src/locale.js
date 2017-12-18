@@ -20,7 +20,7 @@ function setLocales(node) {
         }
         else {
             //node.innerText = message
-            node.innerHTML = message
+            node.textContent = message
         }
     }
 }
