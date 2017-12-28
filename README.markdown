@@ -1,4 +1,4 @@
-# AutoPagerize for Chrome
+# AutoPagerize for Chrome & Firefox
 
 ## Description
 
