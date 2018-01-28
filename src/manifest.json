@@ -35,7 +35,7 @@
      "128": "icons/icon128.png"
   },
   "page_action": {
-    "default_title": "Autopagerize for Chrome",
+    "default_title": "Autopagerize",
     "default_popup": "popup.html",
     "default_icon": "icons/icon16.png"
   },
